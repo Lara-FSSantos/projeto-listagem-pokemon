@@ -91,6 +91,7 @@ main .cartao-pokemon .tipos {
 
 main .cartao-pokemon .tipos {
     padding: 8px;
+    border-radius: 30px
 }
 
 .grama {
